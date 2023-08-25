@@ -1,0 +1,2 @@
+.env
+node_modules/   # este archivo es un ejemplo y el "/" es para indicar que es una carpeta
